@@ -1,2 +1,2 @@
 # About
-paper codes.
+This is study notes.
