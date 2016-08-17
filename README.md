@@ -1,3 +1,3 @@
-# test
-This is a test repo.we start to update.Successful 1.
-we start to test PULL
+# NOTES
+This is a study notes about Data Scientist's Toolbox.
+
