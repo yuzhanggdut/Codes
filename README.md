@@ -12,4 +12,5 @@ This is study notes.
 * mv
 * date
 * echo
+
 ## The type of Data Science problems
