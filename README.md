@@ -11,4 +11,4 @@ This is study notes.
 * rm
 * mv
 * date
-* rcho
+* echo
