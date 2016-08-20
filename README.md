@@ -13,4 +13,10 @@ This is study notes.
 * date
 * echo
 
-## The type of Data Science problems
+## The type of Data Science Analysis problems
+* Descriptive 
+* Exploratory
+* Inferential
+* Predictive
+* Causal
+* Mechanistic
