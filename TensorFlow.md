@@ -1,6 +1,6 @@
-# Installing TensorFlow_1.1 with CPU for Windows
+# Installing TensorFlow_1.1 with CPU for Windows7
 ## 准备
-* Windows必须是64位版本
+* Windows7必须是64位版本
 * Python 3.5.x
 * MSVCP140.DLL. 如果没有, 需要安装 [Visual C++ 2015 redistributable (x64 version)](https://www.microsoft.com/en-us/download/details.aspx?id=53587)
 
