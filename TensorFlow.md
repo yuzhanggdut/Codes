@@ -16,3 +16,7 @@
     >>>tf.__veision__
     '1.1.0'  
 如果不报错则安装成功！
+
+## 参考
+* [Installing TensorFlow on Windows](https://www.tensorflow.org/install/install_windows)  
+* [【简记】Windows安装TensorFlow 1.0版本](http://www.jianshu.com/p/7d719d781586)
