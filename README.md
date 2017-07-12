@@ -1,2 +1,2 @@
 # About
-This is study notes.
+This is study codes.
